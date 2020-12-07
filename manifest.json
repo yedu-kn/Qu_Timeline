@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Qu_Timeline",
+  "name": "Timeline for product Qu",
+  "shortname":"Qu_T",
   "icons": [
     {
       "src": "favicon.ico",
