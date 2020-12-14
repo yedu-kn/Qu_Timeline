@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Qu_Timeline/static/css/main.ce101edc.chunk.css",
+    "main.css": "/Qu_Timeline/static/css/main.98ba0689.chunk.css",
     "main.js": "/Qu_Timeline/static/js/main.b5980e27.chunk.js",
     "main.js.map": "/Qu_Timeline/static/js/main.b5980e27.chunk.js.map",
     "runtime-main.js": "/Qu_Timeline/static/js/runtime-main.d7d9a75d.js",
@@ -12,14 +12,14 @@
     "static/js/3.851473a6.chunk.js.map": "/Qu_Timeline/static/js/3.851473a6.chunk.js.map",
     "index.html": "/Qu_Timeline/index.html",
     "static/css/2.6c0f60ba.chunk.css.map": "/Qu_Timeline/static/css/2.6c0f60ba.chunk.css.map",
-    "static/css/main.ce101edc.chunk.css.map": "/Qu_Timeline/static/css/main.ce101edc.chunk.css.map",
+    "static/css/main.98ba0689.chunk.css.map": "/Qu_Timeline/static/css/main.98ba0689.chunk.css.map",
     "static/js/2.1d2b1eca.chunk.js.LICENSE.txt": "/Qu_Timeline/static/js/2.1d2b1eca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d7d9a75d.js",
     "static/css/2.6c0f60ba.chunk.css",
     "static/js/2.1d2b1eca.chunk.js",
-    "static/css/main.ce101edc.chunk.css",
+    "static/css/main.98ba0689.chunk.css",
     "static/js/main.b5980e27.chunk.js"
   ]
 }
